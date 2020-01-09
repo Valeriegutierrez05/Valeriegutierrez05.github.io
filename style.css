@@ -36,7 +36,7 @@ h1{
 }
 .firstpic{
     background-image: url(portrait1.jpg);
-    width: 300px;
+    width: 320px;
     height: 420px;
     background-size: 50%; 
     background-repeat: no-repeat;
@@ -80,4 +80,15 @@ h1{
     
     width: 40%;
     float: left;
+}
+.athena{
+    height: 35%;
+    width: 35%;
+
+}
+.sparky{
+    height:30%;
+    width: 30%;
+    float: left;
+    padding: 2px;
 }
